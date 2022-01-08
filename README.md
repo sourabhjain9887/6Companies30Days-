@@ -1,14 +1,14 @@
 # 6Companies30Days-
 
-Offical Doc:- [Explore the docs »](https://docs.google.com/document/d/e/2PACX-1vRgrSl5zCl8P92F0qNuJyDF9v8aqfNd1UB9fQWTb-_aohzhPbZ0GOVbXvfnGHgzbWWdkf9gr7ZgM0lj/pub)
+# #ReviseWithArsh #6Companies30Days Challenge!
 
-Offical Video:- [Explore the Video »](https://www.youtube.com/watch?v=8ESo_bXhRC4)
+<b>Offical Doc:- </b><a href="https://docs.google.com/document/d/e/2PACX-1vRgrSl5zCl8P92F0qNuJyDF9v8aqfNd1UB9fQWTb-_aohzhPbZ0GOVbXvfnGHgzbWWdkf9gr7ZgM0lj/pub"><strong>Explore the docs »</strong></a><br/>
+<b>Offical Video:- </b> <a href="https://www.youtube.com/watch?v=8ESo_bXhRC4&ab_channel=ArshGoyal"><strong>Explore the Video »</strong></a><br/>
+<hr/>
+<b><h2 align="center">Arsh Goldman Sachs Sheet :</h2></b>
 
-Arsh Goldman Sachs Sheet :
-
-Day 1-5 :
-
-Company Name : Goldman Sachs
+#### Day 1-5 :
+#### Company Name : Goldman Sachs
 
 ✅ 1. Given an array of strings, return all groups of strings that are anagrams.[Link](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/)
 
