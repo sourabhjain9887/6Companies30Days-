@@ -28,7 +28,7 @@ Company Name : Goldman Sachs
 
 ✅ 9. Given a pattern containing only I's and D's. I for increasing and D for decreasing.Devise an algorithm to print the minimum number following that pattern. [Link](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1)
 
-    10. Find max 10 numbers in a list having 10M entries. [Link](https://leetcode.com/discuss/interview-experience/514986/goldman-sachs-interview-process-and-questions)
+10. Find max 10 numbers in a list having 10M entries. [Link](https://leetcode.com/discuss/interview-experience/514986/goldman-sachs-interview-process-and-questions)
 
 ✅ 11. Given an unsorted array Arr of size N of positive integers. One number 'A' from set {1, 2, …N} is missing and one number 'B' occurs twice in array. Find these two numbers. [Link](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/)
 
